@@ -1,0 +1,26 @@
+
+Anahtar	Kod
+BACKSPACE	                    {BACKSPACE} veya {BS}
+MOLA	                        {BREAK}
+BÜYÜK HARF TUŞU  	            {CAPSLOCK}
+TEMİZLEYİN	                    {CLEAR}
+DELETE	                        {DELETE} veya {DEL}
+AŞAĞI OK	                    {DOWN}
+END	                            {END}
+ENTER (sayısal tuş takımı)   	{ENTER}
+ENTER	                             ~
+ESC	                            {ESCAPE} veya {ESC}
+YARDIM	{HELP}
+GİRİŞ SAYFASI	                {HOME}
+IZO	                            {INSERT}
+SOL OK	                        {LEFT}
+NUM LOCK	                    {NUMLOCK}
+PAGE DOWN	                    {PGDN}
+PAGE UP                         {PGUP}
+DÖNÜŞ	                        {RETURN}
+SAĞ OK	                        {RIGHT}
+KAYDıRMA KILIDI	                {SCROLLLOCK}
+TAB	                            {TAB}
+YUKARI OK	                    {UP}
+F1 ile F15 arasında         	{F1} - {F15}
+
